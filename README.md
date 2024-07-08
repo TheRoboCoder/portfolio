@@ -8,6 +8,9 @@
 ## Courses and Certifications.
 [LinkedIn](https://www.linkedin.com/in/abrahamescoto552/details/certifications/)
 
+## Curriculum Vitae.
+[CV Vitae](https://drive.google.com/file/d/1vESN9mhGQOpDLOVzxYkOohG4DqF03KaJ/view?usp=sharing)
+
 ## Work Experience
 ### Electrical Engineering Assistant @ BELLA & KAI Construction, CA, USA (_July 2023 – August 2023_)
 - Installation of professional electrical piping in public institutions.
