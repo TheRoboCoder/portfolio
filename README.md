@@ -51,6 +51,15 @@ I was responsible for rehabilitating the University’s 3D printer laboratory, w
 ![Bike Study](/assets/img/printer1.png)
 ![Bike Study](/assets/img/printer2.png)
 
+### Bionic Prosthesis Hand. 
+#### SolidWorks, C++, MatLAB, PCB Prototyping.
+[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+
+I was responsible for rehabilitating the University’s 3D printer laboratory, where I repaired and renovated 11 machines. These machines were from brands like Creality, MakerBot, BambuLab, Anycubic and MakerMex; all of them with different bed sizes and kinematics (most of them Cartesian and CoreXY variants). This project was part of my social service requirement as a student. During the entire semester, my daily tasks included redesigning and 3D printing new parts, as well as modifying and updating old firmware on the printers. I completely built four printers from old and spare parts, using Klipper firmware to integrate new features into the machines. I installed different type of homing sensors and switches, rewired all the electronics required in all the printers and also had to design complete machines in the SolidWorks CAD software in order to ensure dimensional accuracy of components and confirm software parameters. All of the printers were successfully repaired.
+
+![Bike Study](/assets/img/printer1.png)
+![Bike Study](/assets/img/printer2.png)
+
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
 - Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
