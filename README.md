@@ -1,11 +1,9 @@
-# Data Scientist
+# Robotics Engineer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, C++, MATLAB, Linux, ROS2.
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## Education	        		
+- B.S., Robotics | Benemerita Universidad Autonoma de Aguacascalientes, Mexico. (_2020 - Today_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
