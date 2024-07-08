@@ -33,6 +33,15 @@ Design, CNC milling, laser cutting, 3D printing, assembly, and coding of an auto
 ![Bike Study](/assets/img/sumo3.png)
 ![Bike Study](/assets/img/sumo5.png)
 
+### Design of an external vision system for an industrial Fanuc 6 DOF Robotic Arm. 
+#### Python, OpenCV, TCP/IP protocol, Perception data acquisition.
+[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+
+I had the opportunity to develop a customized vision system to automate the routine of a Fanuc M-10iA industrial robotic arm with 6 degrees of freedom. I created a human-machine interface using the Custom Tkinter and OpenCV libraries to build the application frame, and the socket library to establish real-time communication with the robot's PLC computer. Additionally, I programmed in Karel (Fanuc's robotic arms language) to receive commands from the external Python application via the TCP/IP protocol.
+
+![Bike Study](/assets/img/sumo3.png)
+![Bike Study](/assets/img/sumo5.png)
+
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
 - Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
