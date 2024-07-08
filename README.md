@@ -25,6 +25,7 @@ Design, 3D printing, assembly, and coding of a 3 DOF parallel robot arm and a co
 ![EEG Band Discovery](/assets/img/robot1.png)
 
 ### Sumo Robot Car and Fuzzy Logic Controller. Third Place winner of IEEE Competition.
+#### Perception data acquisition, Fuzzy Logic, Solidworks, C++, CNC, Embedded Systems.
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
 Design, CNC milling, laser cutting, 3D printing, assembly, and coding of an autonomous battle sumo robot car, which won third place at the state-level university competition in Aguascalientes in 2023, organized by the Institute of Electrical and Electronics Engineers (IEEE). Utilizing TOF sensor technology, IMU readings from a gyroscope, and a fuzzy logic controller, the robot achieved the desired response to detect presence within a specified radius, enabling it to move effectively and quickly toward its target.
@@ -35,10 +36,6 @@ Design, CNC milling, laser cutting, 3D printing, assembly, and coding of an auto
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
 - Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
 
 - [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
