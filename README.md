@@ -42,7 +42,7 @@ I had the opportunity to develop a customized vision system to automate the rout
 ![Bike Study](/assets/img/vision1.png)
 ![Bike Study](/assets/img/vision2.png)
 
-### Rehabilitation and Modernization of my University's 3D Printer Laboratory. 
+### Rehabilitation and Modernization of a University's 3D Printer Laboratory. 
 #### Klipper firmware, Marlin Firmware, C++, Python, Linux, SolidWorks, Kinematics.
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
