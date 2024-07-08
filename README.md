@@ -21,7 +21,7 @@
 
 Design, 3D printing, assembly, and coding of a 3 DOF parallel robot arm and a conveyor belt palletizer system. This system includes an artificial vision application for quality control, distinguishing between two types of objects. The printed circuit board (PCB) was designed from scratch with a modular approach, allowing for easy swapping of components in case of failure.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![EEG Band Discovery](/assets/img/robot1.png)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
