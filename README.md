@@ -9,16 +9,15 @@
 [LinkedIn](https://www.linkedin.com/in/abrahamescoto552/details/certifications/)
 
 ## Work Experience
-# Electrical Engineering Assistant @ BELLA & KAI Construction, CA, USA (_July 2023 – August 2023_)
+## Electrical Engineering Assistant @ BELLA & KAI Construction, CA, USA (_July 2023 – August 2023_)
 - Installation of professional electrical piping in public institutions.
 - Time and resource optimization to meet deadline commitments.
-# General Electrician @ HM Construction. Desert Hot Springs, CA, USA (_May 2022 – July 2022_)
+## General Electrician @ HM Construction. Desert Hot Springs, CA, USA (_May 2022 – July 2022_)
 - Design, installation, and maintenance of electrical systems.
 - Troubleshooting electrical issues and repair of electrical equipment.
-#  Assistant Manager @ Domino's Pizza. Desert Hot Springs, CA, USA (_January - February 2022._)
-• Coordinated team work to enthusiastically serve customers.
-• Performed effectively under established regulations in high-stress
-conditions.
+##  Assistant Manager @ Domino's Pizza. Desert Hot Springs, CA, USA (_January - February 2022._)
+- Coordinated team work to enthusiastically serve customers.
+- Performed effectively under established regulations in high-stress conditions.
 
 ## Projects
 ### 3 DOF Parallel robotic arm with an artifical vision app.
@@ -65,15 +64,3 @@ During my seventh semester, I developed a prosthetic hand from scratch based on 
 
 ![Bike Study](/assets/img/hand1.png)
 ![Bike Study](/assets/img/hand2.png)
-
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
-
-## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-
-- [Data Science Blog](https://medium.com/@shawhin)
