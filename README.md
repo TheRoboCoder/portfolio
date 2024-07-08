@@ -9,36 +9,21 @@
 [LinkedIn](https://www.linkedin.com/in/abrahamescoto552/details/certifications/)
 
 ## Work Experience
-## Electrical Engineering Assistant @ BELLA & KAI Construction, CA, USA (_July 2023 – August 2023_)
+### Electrical Engineering Assistant @ BELLA & KAI Construction, CA, USA (_July 2023 – August 2023_)
 - Installation of professional electrical piping in public institutions.
 - Time and resource optimization to meet deadline commitments.
-## General Electrician @ HM Construction. Desert Hot Springs, CA, USA (_May 2022 – July 2022_)
+
+### General Electrician @ HM Construction. Desert Hot Springs, CA, USA (_May 2022 – July 2022_)
 - Design, installation, and maintenance of electrical systems.
 - Troubleshooting electrical issues and repair of electrical equipment.
-##  Assistant Manager @ Domino's Pizza. Desert Hot Springs, CA, USA (_January - February 2022._)
+
+###  Assistant Manager @ Domino's Pizza. Desert Hot Springs, CA, USA (_January - February 2022._)
 - Coordinated team work to enthusiastically serve customers.
 - Performed effectively under established regulations in high-stress conditions.
 
 ## Projects
-### 3 DOF Parallel robotic arm with an artifical vision app.
-#### Forward and Inverse Kinematics, Solidworks, Python, C++, Embedded Systems, C#, OpenCV, Fusion 360.
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
-Design, 3D printing, assembly, and coding of a 3 DOF parallel robot arm and a conveyor belt palletizer system. This system includes an artificial vision application for quality control, distinguishing between two types of objects. The printed circuit board (PCB) was designed from scratch with a modular approach, allowing for easy swapping of components in case of failure.
-
-![EEG Band Discovery](/assets/img/robot2.png)
-![EEG Band Discovery](/assets/img/robot1.png)
-
-### Sumo Robot Car and Fuzzy Logic Controller. Third Place winner of IEEE Competition.
-#### Perception data acquisition, Fuzzy Logic, Solidworks, C++, CNC, Embedded Systems.
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-
-Design, CNC milling, laser cutting, 3D printing, assembly, and coding of an autonomous battle sumo robot car, which won third place at the state-level university competition in Aguascalientes in 2023, organized by the Institute of Electrical and Electronics Engineers (IEEE). Utilizing TOF sensor technology, IMU readings from a gyroscope, and a fuzzy logic controller, the robot achieved the desired response to detect presence within a specified radius, enabling it to move effectively and quickly toward its target.
-
-![Bike Study](/assets/img/sumo3.png)
-![Bike Study](/assets/img/sumo5.png)
-
-### Design of an external vision system for an industrial Fanuc 6 DOF Robotic Arm. 
+### Design of an external vision system for an industrial Fanuc 6 DOF Robotic Arm.  (_April 2024_)
 #### Python, OpenCV, TCP/IP protocol, Perception data acquisition, Fanuc RoboGuide Simulator.
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
@@ -47,7 +32,34 @@ I had the opportunity to develop a customized vision system to automate the rout
 ![Bike Study](/assets/img/vision1.png)
 ![Bike Study](/assets/img/vision2.png)
 
-### Rehabilitation and Modernization of a University's 3D Printer Laboratory. 
+### Bionic Prosthesis Hand.  (_February 2024_)
+#### SolidWorks, C++, MatLAB, PCB Prototyping.
+[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+
+During my seventh semester, I developed a prosthetic hand from scratch based on the dimensions of my own hand, using servo motors and a gear reduction system to increase torque. I collaborated with a team of Biomedical Engineering students to design a printed circuit board capable of effectively reading and filtering myoelectrical signals from the human muscular system. Using an ESP32-S3 embedded system, I coded a digital fast Fourier transform (FFT) to obtain the frequency and amplitude of the acquired signals.
+
+![Bike Study](/assets/img/hand1.png)
+![Bike Study](/assets/img/hand2.png)
+
+### 3 DOF Parallel robotic arm with an artifical vision app. (_December 2023_)
+#### Forward and Inverse Kinematics, Solidworks, Python, C++, Embedded Systems, C#, OpenCV, Fusion 360.
+[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+
+Design, 3D printing, assembly, and coding of a 3 DOF parallel robot arm and a conveyor belt palletizer system. This system includes an artificial vision application for quality control, distinguishing between two types of objects. The printed circuit board (PCB) was designed from scratch with a modular approach, allowing for easy swapping of components in case of failure.
+
+![EEG Band Discovery](/assets/img/robot2.png)
+![EEG Band Discovery](/assets/img/robot1.png)
+
+### Sumo Robot Car and Fuzzy Logic Controller. Third Place winner of IEEE Competition.  (_August 2023_)
+#### Perception data acquisition, Fuzzy Logic, Solidworks, C++, CNC, Embedded Systems.
+[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+
+Design, CNC milling, laser cutting, 3D printing, assembly, and coding of an autonomous battle sumo robot car, which won third place at the state-level university competition in Aguascalientes in 2023, organized by the Institute of Electrical and Electronics Engineers (IEEE). Utilizing TOF sensor technology, IMU readings from a gyroscope, and a fuzzy logic controller, the robot achieved the desired response to detect presence within a specified radius, enabling it to move effectively and quickly toward its target.
+
+![Bike Study](/assets/img/sumo3.png)
+![Bike Study](/assets/img/sumo5.png)
+
+### Rehabilitation and Modernization of a University's 3D Printer Laboratory.  (_January 2023_)
 #### Klipper firmware, Marlin Firmware, C++, Python, Linux, SolidWorks, Kinematics.
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
@@ -56,11 +68,3 @@ I was responsible for rehabilitating the University’s 3D printer laboratory, w
 ![Bike Study](/assets/img/printer1.png)
 ![Bike Study](/assets/img/printer2.png)
 
-### Bionic Prosthesis Hand. 
-#### SolidWorks, C++, MatLAB, PCB Prototyping.
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-
-During my seventh semester, I developed a prosthetic hand from scratch based on the dimensions of my own hand, using servo motors and a gear reduction system to increase torque. I collaborated with a team of Biomedical Engineering students to design a printed circuit board capable of effectively reading and filtering myoelectrical signals from the human muscular system. Using an ESP32-S3 embedded system, I coded a digital fast Fourier transform (FFT) to obtain the frequency and amplitude of the acquired signals.
-
-![Bike Study](/assets/img/hand1.png)
-![Bike Study](/assets/img/hand2.png)
