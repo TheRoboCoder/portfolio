@@ -21,15 +21,15 @@
 
 Design, 3D printing, assembly, and coding of a 3 DOF parallel robot arm and a conveyor belt palletizer system. This system includes an artificial vision application for quality control, distinguishing between two types of objects. The printed circuit board (PCB) was designed from scratch with a modular approach, allowing for easy swapping of components in case of failure.
 
-![EEG Band Discovery](/assets/img/robot1.png)
 ![EEG Band Discovery](/assets/img/robot2.png)
+![EEG Band Discovery](/assets/img/robot1.png)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
+### Sumo Robot Car and Fuzzy Logic Controller in Embedded System
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+Design, CNC milling, laser cutting, 3D printing, assembly, and coding of an autonomous battle sumo robot car, which won third place at the state-level university competition in Aguascalientes in 2023. Utilizing TOF sensor technology, IMU readings from a gyroscope, and a fuzzy logic controller, the robot achieved the desired response to detect presence within a specified radius, enabling it to move effectively and quickly toward its target.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![Bike Study](/assets/img/sumo2.png)
 
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
