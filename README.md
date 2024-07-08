@@ -37,7 +37,16 @@ Design, CNC milling, laser cutting, 3D printing, assembly, and coding of an auto
 #### Python, OpenCV, TCP/IP protocol, Perception data acquisition, Fanuc RoboGuide Simulator.
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
-I had the opportunity to develop a customized vision system to automate the routine of a Fanuc M-10iA industrial robotic arm with 6 degrees of freedom. I created a human-machine interface using the Custom Tkinter and OpenCV libraries to build the application frame, and the socket library to establish real-time communication with the robot's PLC computer. Additionally, I programmed in Karel (Fanuc's robotic arms language) to receive commands from the external Python application via the TCP/IP protocol. The final routine was tested in both, Fanucs's simulator and real robot execution.
+I had the opportunity to develop a customized vision system to automate the routine of a Fanuc M-10iA industrial robotic arm with 6 degrees of freedom. I created a human-machine interface using the Custom Tkinter and OpenCV libraries to build the application frame, and the socket library to establish real-time communication with the robot's PLC computer. Additionally, I programmed in Karel (Fanuc's robotic arms language) to receive commands from the external Python application via the TCP/IP protocol. The final routine was tested in both, Fanuc's simulator and real robot execution.
+
+![Bike Study](/assets/img/vision1.png)
+![Bike Study](/assets/img/vision2.png)
+
+### Rehabilitation and Modernization of my University's 3D Printer Laboratory. 
+#### Klipper firmware, Marlin Firmware, C++, Python, Linux, SolidWorks.
+[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+
+I was responsible for rehabilitating the University’s 3D printer laboratory, where I repaired and renovated 11 machines. This project was part of my social service requirement as a student. During the entire semester, my daily tasks included redesigning and 3D printing new parts, as well as modifying and updating old firmware on the printers. I completely built four printers from old and spare parts, using Klipper firmware to integrate new features into the machines. All of the printers were successfully repaired.
 
 ![Bike Study](/assets/img/vision1.png)
 ![Bike Study](/assets/img/vision2.png)
