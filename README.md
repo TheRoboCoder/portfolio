@@ -15,13 +15,14 @@
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
 ## Projects
-### 3 DOF Parallel robotic arm with Aatifical vision app.
-#### Solidworks, Python, C++, Embedded Systems, C#, OpenCV, Fusion 360.
+### 3 DOF Parallel robotic arm with an artifical vision app.
+#### Forward and Inverse Kinematics, Solidworks, Python, C++, Embedded Systems, C#, OpenCV, Fusion 360.
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
 Design, 3D printing, assembly, and coding of a 3 DOF parallel robot arm and a conveyor belt palletizer system. This system includes an artificial vision application for quality control, distinguishing between two types of objects. The printed circuit board (PCB) was designed from scratch with a modular approach, allowing for easy swapping of components in case of failure.
 
 ![EEG Band Discovery](/assets/img/robot1.png)
+![EEG Band Discovery](/assets/img/robot2.png)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
