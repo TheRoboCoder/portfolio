@@ -24,10 +24,10 @@ Design, 3D printing, assembly, and coding of a 3 DOF parallel robot arm and a co
 ![EEG Band Discovery](/assets/img/robot2.png)
 ![EEG Band Discovery](/assets/img/robot1.png)
 
-### Sumo Robot Car and Fuzzy Logic Controller in Embedded System
+### Sumo Robot Car and Fuzzy Logic Controller. Third Place winner of IEEE Competition.
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
-Design, CNC milling, laser cutting, 3D printing, assembly, and coding of an autonomous battle sumo robot car, which won third place at the state-level university competition in Aguascalientes in 2023. Utilizing TOF sensor technology, IMU readings from a gyroscope, and a fuzzy logic controller, the robot achieved the desired response to detect presence within a specified radius, enabling it to move effectively and quickly toward its target.
+Design, CNC milling, laser cutting, 3D printing, assembly, and coding of an autonomous battle sumo robot car, which won third place at the state-level university competition in Aguascalientes in 2023, organized by the Institute of Electrical and Electronics Engineers (IEEE). Utilizing TOF sensor technology, IMU readings from a gyroscope, and a fuzzy logic controller, the robot achieved the desired response to detect presence within a specified radius, enabling it to move effectively and quickly toward its target.
 
 ![Bike Study](/assets/img/sumo2.png)
 
