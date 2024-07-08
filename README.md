@@ -9,13 +9,16 @@
 [LinkedIn](https://www.linkedin.com/in/abrahamescoto552/details/certifications/)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
-
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+# Electrical Engineering Assistant @ BELLA & KAI Construction, CA, USA (_July 2023 – August 2023_)
+- Installation of professional electrical piping in public institutions.
+- Time and resource optimization to meet deadline commitments.
+# General Electrician @ HM Construction. Desert Hot Springs, CA, USA (_May 2022 – July 2022_)
+- Design, installation, and maintenance of electrical systems.
+- Troubleshooting electrical issues and repair of electrical equipment.
+#  Assistant Manager @ Domino's Pizza. Desert Hot Springs, CA, USA (_January - February 2022._)
+• Coordinated team work to enthusiastically serve customers.
+• Performed effectively under established regulations in high-stress
+conditions.
 
 ## Projects
 ### 3 DOF Parallel robotic arm with an artifical vision app.
