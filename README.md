@@ -5,8 +5,8 @@
 ## Education	        		
 - B.S., Robotics | Benemerita Universidad Autonoma de Aguacascalientes, Mexico. (_2020 - Present_)
 
-## Courses and Certifications
-[LinkedIn List](https://www.linkedin.com/in/abrahamescoto552/details/certifications/)
+## Courses and Certifications.
+[LinkedIn](https://www.linkedin.com/in/abrahamescoto552/details/certifications/)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
