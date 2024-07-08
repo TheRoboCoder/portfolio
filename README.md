@@ -39,8 +39,8 @@ Design, CNC milling, laser cutting, 3D printing, assembly, and coding of an auto
 
 I had the opportunity to develop a customized vision system to automate the routine of a Fanuc M-10iA industrial robotic arm with 6 degrees of freedom. I created a human-machine interface using the Custom Tkinter and OpenCV libraries to build the application frame, and the socket library to establish real-time communication with the robot's PLC computer. Additionally, I programmed in Karel (Fanuc's robotic arms language) to receive commands from the external Python application via the TCP/IP protocol.
 
-![Bike Study](/assets/img/sumo3.png)
-![Bike Study](/assets/img/sumo5.png)
+![Bike Study](/assets/img/vision1.png)
+![Bike Study](/assets/img/vision2.png)
 
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
