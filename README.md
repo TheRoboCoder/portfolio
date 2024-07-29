@@ -34,6 +34,14 @@ I had the opportunity to develop a customized vision system to automate the rout
 ![Bike Study](/assets/img/vision1.png)
 ![Bike Study](/assets/img/vision2.png)
 
+### Simulation of Mobile Robots and Manipulator using ROS2 on Windows Subsystem for Linux  (March 2024_)
+#### ROS2, Python, C++, OpenCV, Gazebo Classic, SolidWorks.
+
+During my eighth semester, I took a course where I acquired foundational knowledge of ROS2, including the creation of nodes, topics, and xacro files to simulate virtual environments in the Gazebo Classic simulator. I developed this project using the Windows Subsystem for Linux (WSL), which provided a versatile environment for working with ROS2. I simulated two types of mobile robots: one with differential kinematics and another with an omni-wheel configuration. Additionally, I integrated a 3 DOF manipulator on one of the mobile robots to implement various plugins for controlling position and velocity parameters. I also utilized the OpenCV bridge library to incorporate artificial vision functionalities into the simulation.
+
+![Bike Study](/assets/img/vision1.png)
+![Bike Study](/assets/img/vision2.png)
+
 ### Bionic Prosthesis Hand.  (_February 2024_)
 #### SolidWorks, C++, MatLAB, PCB Prototyping.
 
