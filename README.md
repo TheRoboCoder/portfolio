@@ -1,6 +1,6 @@
 # Robotics Engineer
 
-#### Technical Skills: Python, C++, SolidWorks, MATLAB, Linux, ROS2.
+#### Technical Skills: SolidWorks, MATLAB, Python, C++, Linux, ROS2.
 
 ## Education	        		
 - B.S., Robotics | Benemerita Universidad Autonoma de Aguacascalientes, Mexico. (_2020 - Present_)
