@@ -49,6 +49,7 @@ During my seventh semester, I developed a prosthetic hand from scratch based on 
 
 ![Bike Study](/assets/img/hand1.png)
 ![Bike Study](/assets/img/hand2.png)
+![Bike Study](/assets/img/hand5.png)
 
 ### 3 DOF Parallel robotic arm with an artifical vision app. (_December 2023_)
 #### Forward and Inverse Kinematics, Solidworks, Python, C++, Embedded Systems, C#, OpenCV, Fusion 360.
