@@ -9,7 +9,7 @@
 [LinkedIn](https://www.linkedin.com/in/abrahamescoto552/details/certifications/)
 
 ## Curriculum Vitae.
-[CV Vitae](https://drive.google.com/file/d/1PeQKCAtu8XLx06czu5e2aE6aB5Fu75ng/view?usp=sharing)
+[CV Vitae](https://drive.google.com/file/d/160lbvD-w3AuvobmATI2nvEzID3TW7TD7/view?usp=sharing)
 
 ## Work Experience
 ### Construction Field Electrician @ BELLA & KAI Construction, Twentynine Palms, CA (_November 2024 – Current_)
