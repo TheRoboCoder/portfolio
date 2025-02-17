@@ -12,15 +12,19 @@
 [CV Vitae](https://drive.google.com/file/d/1PeQKCAtu8XLx06czu5e2aE6aB5Fu75ng/view?usp=sharing)
 
 ## Work Experience
-### Electrical Engineering Assistant @ BELLA & KAI Construction, CA, USA (_July 2023 – August 2023_)
+### Construction Field Electrician @ BELLA & KAI Construction, Twentynine Palms, CA (_November 2024 – Current_)
 - Installation of professional electrical piping in public institutions.
 - Time and resource optimization to meet deadline commitments.
 
-### General Electrician @ HM Construction. Desert Hot Springs, CA, USA (_May 2022 – July 2022_)
+### Automation Engineer Apprentice @ Simpli Gate Inc, Desert Hot Springs, CA (_July 2024 – November 2024._)
+-	Programmed and operated CNC machines (milling and plasma cutting).
+-	Developed computer vision-controlled automatic gates for vehicles using C++ and Python.
+
+### PLC & Automation Technician Apprentice @ HM Construction. Desert Hot Springs, CA (_May 2022 – July 2022_)
 - Design, installation, and maintenance of electrical systems.
 - Troubleshooting electrical issues and repair of electrical equipment.
 
-###  Assistant Manager @ Domino's Pizza. Desert Hot Springs, CA, USA (_January - February 2022._)
+###  Assistant Manager @ Domino's Pizza. Desert Hot Springs, CA, USA (_January 2022 - February 2022._)
 - Coordinated team work to enthusiastically serve customers.
 - Performed effectively under established regulations in high-stress conditions.
 
