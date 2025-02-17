@@ -3,7 +3,7 @@
 #### Technical Skills: SolidWorks, MATLAB, Python, C++, Linux, ROS2, CNC, 3D Printing, PCB design.
 
 ## Education	        		
-- B.S., Robotics | Benemerita Universidad Autonoma de Aguacascalientes, Mexico. (_2020 - Present_)
+- B.S., Robotics | Autonomous University of Aguascalientes, Mexico | (_August 2020 - December 2024_)
 
 ## Courses and Certifications.
 [LinkedIn](https://www.linkedin.com/in/abrahamescoto552/details/certifications/)
