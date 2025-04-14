@@ -5,6 +5,9 @@
 ## Education	        		
 - B.S., Robotics | Autonomous University of Aguascalientes, Mexico | (_August 2020 - December 2024_)
 
+## Degree Certificate.
+[PDF Format](https://drive.google.com/file/d/1834-TrBLgxHfQx3XF99YrWE9HMyA0Hsh/view?usp=sharing)
+
 ## Courses and Certifications.
 [LinkedIn](https://www.linkedin.com/in/abrahamescoto552/details/certifications/)
 
