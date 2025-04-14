@@ -1,6 +1,6 @@
 # Robotics Engineer
 
-#### Technical Skills: SolidWorks, MATLAB, Python, C++, Linux, ROS2, CNC, 3D Printing, PCB design.
+#### Technical Skills: SolidWorks, MATLAB, Python, C++, Linux, ROS2, CNC, 3D Printing, PCB design, PLC.
 
 ## Education	        		
 - B.S., Robotics | Autonomous University of Aguascalientes, Mexico | (_August 2020 - December 2024_)
